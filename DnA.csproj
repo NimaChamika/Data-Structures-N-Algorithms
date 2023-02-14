@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\01 - Search Algos\01 - Binary Search.cs" />
+    <Compile Include="Algorithms\01 - Search Algos\01 - Linear Search.cs" />
+    <Compile Include="Algorithms\01 - Search Algos\02 - Binary Search.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

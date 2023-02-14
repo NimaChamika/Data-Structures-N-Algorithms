@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DnA.Algorithms._01___Search_Algos
 {
-    class _01___Binary_Search
+    class _02___Binary_Search
     {
         internal static void Solution()
         {

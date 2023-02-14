@@ -11,7 +11,7 @@ namespace DnA
     {
         static void Main(string[] args)
         {
-            _01___Binary_Search.Solution();
+            _01___Linear_Search.Solution();
         }
 
 
