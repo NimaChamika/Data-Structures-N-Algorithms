@@ -21,6 +21,15 @@
 - Repeatedly divide the list into parts and check for the element.
 - Time Complexity: O(log n)
 
+#### 3 - Jump Search
+
+- List need to be sorted.
+- The main idea is to search fewer elements compared to linerar search.This is done by skipping some fixed num of array elements in each iteration.
+- optimal jump size is √n.
+- Time Complexity: O(√n)
+- This is faster than linear search and slower then binary search.
+- https://www.studytonight.com/data-structures/jump-search-algorithm
+
 ## 2- Data Structures
 
 ---
