@@ -30,6 +30,12 @@
 - This is faster than linear search and slower then binary search.
 - https://www.studytonight.com/data-structures/jump-search-algorithm
 
+---
+
+### 2 -Sorting Algos
+
+---
+
 ## 2- Data Structures
 
 ---

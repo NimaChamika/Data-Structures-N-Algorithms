@@ -1,4 +1,5 @@
 ﻿using DnA.Algorithms._01___Search_Algos;
+using DnA.Algorithms._02___Sorting_Algos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +12,8 @@ namespace DnA
     {
         static void Main(string[] args)
         {
-            _03___Jump_Search.Solution();
+            _01___Bubble_Sort.Solution();
         }
-
-
     }
+
 }
