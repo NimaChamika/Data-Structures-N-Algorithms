@@ -34,6 +34,14 @@
 
 ### 2 -Sorting Algos
 
+#### 1 - Bubble Sort
+
+- Simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order.
+- not good for large data sets.
+- Stable
+- Time complexity: O(N^2)
+- The algo always runs O(N^2) time even if the array is sorted. It can be optimized by stopping the algorithm if the inner loop didn’t cause any swap.
+
 ---
 
 ## 2- Data Structures

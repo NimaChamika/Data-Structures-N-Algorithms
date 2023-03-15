@@ -47,10 +47,6 @@
     <Compile Include="Algorithms\01 - Search Algos\02 - Binary Search.cs" />
     <Compile Include="Algorithms\01 - Search Algos\03 - Jump Search.cs" />
     <Compile Include="Algorithms\02 - Sorting Algos\01 - Bubble Sort.cs" />
-    <Compile Include="Algorithms\02 - Sorting Algos\02 - Selection Sort.cs" />
-    <Compile Include="Algorithms\02 - Sorting Algos\03 - Insertion Sort.cs" />
-    <Compile Include="Algorithms\02 - Sorting Algos\04 - Merge Sort.cs" />
-    <Compile Include="Algorithms\02 - Sorting Algos\05 - Quick Sort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
