@@ -42,6 +42,13 @@
 - Time complexity: O(N^2)
 - The algo always runs O(N^2) time even if the array is sorted. It can be optimized by stopping the algorithm if the inner loop didn’t cause any swap.
 
+#### 2 - Selection Sort
+
+- This is a simple & efficent sorting algorithm that works by repeatedly selecting the smallest element from the unsorted portion of the list and moving it to the sorted portion of the list.
+- not good for large data sets.
+- Not stable
+- Time complexity: O(N^2)
+
 ---
 
 ## 2- Data Structures
