@@ -12,7 +12,7 @@ namespace DnA
     {
         static void Main(string[] args)
         {
-            _03___Insertion_Sort.Solution();
+            _04___Merge_Sort.Solution();
         }
     }
 
