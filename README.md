@@ -52,12 +52,20 @@
 #### 3 - Insertion Sort
 
 - This is a simple sorting algorithm.
-- . The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+- The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
 - Algorithm works similar to the way you sort playing cards in your hands
 - not good for large data sets.
 - stable (does not change the relative order of elements with equal keys)
 - in-place (only requires a constant amount O(1) of additional memory space)
 - Time complexity: O(N^2)
+
+#### 4 - Merge Sort
+
+- This works by dividing the array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array
+- good for large data sets.
+- stable (does not change the relative order of elements with equal keys)
+- not in-place (requires extra space)
+- Time complexity: O(N log(N))
 
 ---
 
