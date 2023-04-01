@@ -3,6 +3,7 @@ using DnA.Algorithms._02___Sorting_Algos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,7 @@ namespace DnA
     {
         static void Main(string[] args)
         {
-            _04___Merge_Sort.Solution();
+            _05___Counting_Sort.Solution();
         }
     }
 
