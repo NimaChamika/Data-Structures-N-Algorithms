@@ -67,6 +67,17 @@
 - not in-place (requires extra space)
 - Time complexity: O(N log(N))
 
+#### 4 - Counting Sort
+
+- A sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (a kind of hashing). Then do some arithmetic operations to calculate the position of each object in the output sequence.
+- This is an integer sorting algo
+- Counting sort makes assumptions about the data, for example, it assumes that values are going to be in the range of 0 to 10 or 10 – 99, etc.
+- Stable
+- Non-in place
+- Time complexity: O(N)
+
+- https://www.youtube.com/watch?v=OKd534EWcdk
+
 ---
 
 ## 2- Data Structures
